@@ -31,10 +31,10 @@ license = "LGPL-3.0-only"
 url = "https://github.com/domlinson/EMFExBadge"
 
 # Description of your app.  Maximum 140 characters!
-description = "EMFEx Tracking application for the EMF Tildagon badge"
+description = "Track your EMFEx deliveries on your Tildagon badge!"
 
 # Version number of your app.  If you push a commit where this number is
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an string!
-version = "1.0.0"
+version = "0.0.1"
